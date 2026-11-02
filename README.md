@@ -13,12 +13,12 @@ Day to day that means intent classification models, speech-to-text pipelines tha
 
 ### Tech I use
 
-**Languages:** Python, SQL
-**ML / DL:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers
-**GenAI:** LangChain, RAG, prompt engineering, pgvector
-**Backend:** FastAPI, Flask, REST, WebSockets, Kafka, Redis
-**Infra:** Docker, Kubernetes, AWS (EC2, Lambda, S3, Aurora PostgreSQL)
-**Data:** Pandas, NumPy, MySQL, PostgreSQL, Power BI
+- **Languages:** Python, SQL
+- **ML / DL:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers
+- **GenAI:** LangChain, RAG, prompt engineering, pgvector
+- **Backend:** FastAPI, Flask, REST, WebSockets, Kafka, Redis
+- **Infra:** Docker, Kubernetes, AWS (EC2, Lambda, S3, Aurora PostgreSQL)
+- **Data:** Pandas, NumPy, MySQL, PostgreSQL, Power BI
 
 ### Projects
 
