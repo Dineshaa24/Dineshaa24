@@ -32,4 +32,4 @@ Day to day that means intent classification models, speech-to-text pipelines tha
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/dinesh-kumar-tamilselvan) · dineshtamilselvan.24@gmail.com
+[Portfolio](https://dineshaa24.github.io) · [LinkedIn](https://www.linkedin.com/in/dinesh-kumar-tamilselvan) · dineshtamilselvan.24@gmail.com
